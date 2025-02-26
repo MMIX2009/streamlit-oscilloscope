@@ -1,4 +1,4 @@
-# Virtual Oscilloscope - Streamlit App
+# Streamlit Oscilloscope - Streamlit App
 
 ## Overview
 This project is a **Virtual Oscilloscope** implemented using **Streamlit**. It allows users to visualize waveforms with adjustable settings such as **input type, gain, time division, voltage division, offsets, and color scheme**.
